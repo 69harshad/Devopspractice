@@ -1,0 +1,4 @@
+#!/bin/bash
+#Bash Script
+echo " Ganpati Bappa Morya"
+
